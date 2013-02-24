@@ -1,0 +1,24 @@
+[submodule "cookbooks/ii-usb"]
+	path = cookbooks/ii-usb
+	url = git://github.com/ii-cookbooks/ii-usb.git
+[submodule "cookbooks/ii-ubiquity"]
+	path = cookbooks/ii-ubiquity
+	url = git://github.com/ii-cookbooks/ii-ubiquity.git
+[submodule "cookbooks/ii-lxc"]
+	path = cookbooks/ii-lxc
+	url = git://github.com/ii-cookbooks/ii-lxc.git
+[submodule "cookbooks/ii-knife-workstation"]
+	path = cookbooks/ii-knife-workstation
+	url = git://github.com/ii-cookbooks/ii-knife-workstation.git
+[submodule "cookbooks/ii-chef-server"]
+	path = cookbooks/ii-chef-server
+	url = git://github.com/ii-cookbooks/ii-chef-server.git
+[submodule "cookbooks/ii-fileserver"]
+	path = cookbooks/ii-fileserver
+	url = git://github.com/ii-cookbooks/ii-fileserver.git
+[submodule "cookbooks/debmirror"]
+	path = cookbooks/debmirror
+	url = git://github.com/hh-cookbooks/debmirror.git
+[submodule "repos/cloud-kitchen"]
+	path = repos/cloud-kitchen
+	url = git://github.com/hh/cloud-kitchen.git
