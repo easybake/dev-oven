@@ -28,9 +28,6 @@
 [submodule "cookbooks/foodcritic"]
 	path = cookbooks/foodcritic
 	url = git://github.com/easybake-recipes/foodcritic.git
-[submodule "cookbooks/cd-tools"]
-	path = cookbooks/cd-tools
-	url = git://github.com/easybake-recipes/cd-tools.git
 [submodule "repos/cloud-kitchen"]
 	path = repos/cloud-kitchen
 	url = git://github.com/hh/cloud-kitchen.git
