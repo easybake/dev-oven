@@ -34,3 +34,6 @@
 [submodule "repos/cloud-kitchen"]
 	path = repos/cloud-kitchen
 	url = git://github.com/hh/cloud-kitchen.git
+[submodule "repos/openstack-chef-repo"]
+	path = repos/openstack-chef-repo
+	url = git://github.com/hh/openstack-chef-repo.git
